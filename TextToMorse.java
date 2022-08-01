@@ -1,4 +1,4 @@
-package com.company;
+package com.company;//Can be removed if compiler supports
 import java.util.Scanner;
 public class TextToMorse{
     public static void main(String[] args){
